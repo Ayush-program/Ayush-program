@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ayush Gaudani 👋
 
-<!--
-**Ayush-program/Ayush-program** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI/ML Engineer
 
-Here are some ideas to get you started:
+I build production-oriented AI/ML applications using Generative AI, LLMs, RAG, AI Agents, Machine Learning, Deep Learning, NLP, OCR, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Work With
+
+- Generative AI & LLMs
+- RAG & Vector Databases
+- AI Agents
+- Machine Learning
+- Deep Learning
+- NLP & OCR
+- Computer Vision
+- FastAPI & Python
+- SQL & PostgreSQL/MySQL
+- AI Automation
+
+### 🛠️ Technologies
+
+Python • FastAPI • LangChain • LangGraph • Scikit-learn • TensorFlow • PyTorch • PostgreSQL • MySQL • ChromaDB • FAISS
+
+### 📌 Featured Projects
+
+- Tender AI / Eligibility Checker
+- Tender AI Chatbot
+- AI Meeting Intelligence
+- CAPTCHA OCR Automation
+- ERP / Order Management System
+
+### 🌐 Portfolio
+
+https://ayush-gaudani-portfolio.vercel.app
+
+---
+
+⭐ Building practical AI systems that solve real business problems.
