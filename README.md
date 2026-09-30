@@ -19,14 +19,15 @@ I build production-oriented AI/ML applications using Generative AI, LLMs, RAG, A
 
 ### 🛠️ Technologies
 
-Python • FastAPI • LangChain • LangGraph • Scikit-learn • TensorFlow • PyTorch • PostgreSQL • MySQL • ChromaDB • FAISS
+Python • FastAPI • LangChain • LangGraph • Scikit-learn • TensorFlow • PyTorch • PostgreSQL • MySQL • ChromaDB • FAISS • Pincone
 
 ### 📌 Featured Projects
 
-- Tender AI / Eligibility Checker
-- Tender AI Chatbot
-- AI Meeting Intelligence
-- CAPTCHA OCR Automation
+- Eligibility Checker Using AI Agent
+- AI Assistant- Tender Chatbot
+- AI Meeting Assistant
+- CAPTCHA Recognize and Automated Downloading System
+- AI Lead Agent 
 - ERP / Order Management System
 
 ### 🌐 Portfolio
